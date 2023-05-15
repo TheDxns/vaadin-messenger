@@ -1,7 +1,13 @@
-# My App
+# Vaadin Messenger (Work in progress)
+Basic chat web application with real time text communication.
+It allows to send private messages to other users and create group chats.
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+## Main technologies
+- Spring Boot
+- Vaadin
+- WebSockets
+- PostgreSQL
+- MongoDB
 
 ## Running the application
 
